@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.fce31e17.css",
-    "main.js": "/static/js/main.1a747047.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/static/css/main.d29e7485.css",
+    "main.js": "/static/js/main.5d0a3626.js",
     "static/media/LoginpageBG.png": "/static/media/LoginpageBG.3bec54cbe733c4087c44.png",
     "static/media/smallsreenbg.png": "/static/media/smallsreenbg.a319451dd279a2dcfaea.png",
     "static/media/HomeBG1.png": "/static/media/HomeBG1.6f8269c6dd20c835d75a.png",
     "static/media/pic.png": "/static/media/pic.fc8a9f3638176825c0f7.png",
     "static/media/MediaGallery_img_4.png": "/static/media/MediaGallery_img_4.f41fd48f505bfbb89f8a.png",
     "static/media/Homepage_bg.jpg": "/static/media/Homepage_bg.e1b00fafe583c7c89e4e.jpg",
+    "static/media/profilePic.svg": "/static/media/profilePic.bb326873e260e11843d803a8a437390d.svg",
     "static/media/eK_Logo_Trasnparent_1.png": "/static/media/eK_Logo_Trasnparent_1.9cdb22c00919c8354c28.png",
+    "static/media/ekalakaar.png": "/static/media/ekalakaar.e8d3275678a52d0e872b.png",
+    "static/media/facebook.svg": "/static/media/facebook.28dcd4c7c965a6f6c83fac0e568b2009.svg",
+    "static/media/Google.svg": "/static/media/Google.976c013cdd6c350049fc5b2c5ca03437.svg",
+    "static/media/performance.svg": "/static/media/performance.2b384ae32da3228d4d2b14df559787cf.svg",
     "index.html": "/index.html",
-    "main.fce31e17.css.map": "/static/css/main.fce31e17.css.map",
-    "main.1a747047.js.map": "/static/js/main.1a747047.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/expected.svg": "/static/media/expected.b3112b772b41aac6d957c649ec056d3c.svg",
+    "static/media/art.svg": "/static/media/art.83e46f8dfcd1745cd26d28c5edc4f292.svg",
+    "static/media/basic.svg": "/static/media/basic.94ad017174f76e8826e7192926ac8033.svg",
+    "static/media/award.svg": "/static/media/award.a462ee43054d70bb6d620a32817d00bf.svg",
+    "main.d29e7485.css.map": "/static/css/main.d29e7485.css.map",
+    "main.5d0a3626.js.map": "/static/js/main.5d0a3626.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce31e17.css",
-    "static/js/main.1a747047.js"
+    "static/css/main.d29e7485.css",
+    "static/js/main.5d0a3626.js"
   ]
 }
